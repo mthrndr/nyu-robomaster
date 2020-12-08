@@ -17,21 +17,21 @@ The subteam operates in two Task Groups which focus on prototyping for their res
 
 ### CV Wiki
 This directory serves as a wiki for documenting the subteam's progress:
-
-📦ComputerVision
- ┣ 📂Assignments
- ┃ ┣ 📜Assignment 2 Summary + Intro to Features in Computer Vision.pptx
- ┃ ┣ 📜RM_CV_Assignment1 (10_4_20).docx
- ┃ ┣ 📜RM_CV_Assignment2 (10_11_20).docx
- ┃ ┣ 📜RM_CV_Assignment3 (10_18_20).docx
- ┃ ┗ 📜RM_CV_Assignment4_ First Task Group Assignment (11_15_20).docx
- ┣ 📂Helpful Resources
- ┃ ┣ 📜Armor.pptx
- ┃ ┣ 📜Power Rune.pptx
- ┃ ┗ 📜Supplementary CV Materials.pdf
- ┣ 📂Task Groups
- ┃ ┣ 📂Armor Detection
- ┃ ┣ 📂Armor Tracking
- ┃ ┗ 📜Armor.pptx
- ┣ 📜Fall 2020 Midterm Progress Update.pptx
- ┗ 📜README.md
+  
+📦ComputerVision  
+ ┣ 📂Assignments  
+ ┃ ┣ 📜Assignment 2 Summary + Intro to Features in Computer Vision.pptx  
+ ┃ ┣ 📜RM_CV_Assignment1 (10_4_20).docx  
+ ┃ ┣ 📜RM_CV_Assignment2 (10_11_20).docx  
+ ┃ ┣ 📜RM_CV_Assignment3 (10_18_20).docx  
+ ┃ ┗ 📜RM_CV_Assignment4_ First Task Group Assignment (11_15_20).docx  
+ ┣ 📂Helpful Resources  
+ ┃ ┣ 📜Armor.pptx  
+ ┃ ┣ 📜Power Rune.pptx  
+ ┃ ┗ 📜Supplementary CV Materials.pdf  
+ ┣ 📂Task Groups  
+ ┃ ┣ 📂Armor Detection  
+ ┃ ┣ 📂Armor Tracking  
+ ┃ ┗ 📜Armor.pptx  
+ ┣ 📜Fall 2020 Midterm Progress Update.pptx  
+ ┗ 📜README.md  
